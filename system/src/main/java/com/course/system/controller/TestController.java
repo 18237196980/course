@@ -1,6 +1,6 @@
 package com.course.system.controller;
 
-import com.course.system.service.UserService;
+import com.course.server.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
